@@ -16,10 +16,10 @@
 #include <stack>
 #include <stdexcept>
 #include <string>
+#include <tuple>
 #include <unordered_map>
 #include <utility>
 #include <vector>
-#include <tuple>
 
 #include "common/exception.h"
 #include "common/rwlatch.h"
